@@ -8,7 +8,7 @@
 		<Company>eng.mustafak26@gmail.com</Company>
 		<Title>System.Threading.SemaphoreSlim</Title>
 		<Description>System.Threading.SemaphoreSlim extensions</Description>
-		<PackageIcon>icon.png</PackageIcon>
+		<PackageIcon>icon.jpg</PackageIcon>
 		<RepositoryType>git</RepositoryType>
 		<Copyright>MIT</Copyright>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
@@ -18,6 +18,10 @@
 
 	<ItemGroup>
 	  <None Update="icon.ico">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	  <None Update="icon.jpg">
 	    <Pack>True</Pack>
 	    <PackagePath>\</PackagePath>
 	  </None>
