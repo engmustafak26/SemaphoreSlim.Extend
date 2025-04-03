@@ -12,6 +12,8 @@
 		<RepositoryType>git</RepositoryType>
 		<Copyright>MIT</Copyright>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/engmustafak26/System.Linq.Extend</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/engmustafak26/System.Linq.Extend</PackageProjectUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
