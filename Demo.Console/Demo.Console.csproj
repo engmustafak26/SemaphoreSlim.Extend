@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>SemaphoreSlim.Extend</Title>
+    <Authors>eng.mustafak26@gmail.com</Authors>
+    <Description>SemaphoreSlim.Extend</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SemaphoreSlim.Extend\SemaphoreSlim.Extend.csproj" />
+  </ItemGroup>
+
+</Project>
