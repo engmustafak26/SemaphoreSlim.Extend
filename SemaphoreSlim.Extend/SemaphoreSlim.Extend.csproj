@@ -12,8 +12,9 @@
 		<RepositoryType>git</RepositoryType>
 		<Copyright>MIT</Copyright>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<RepositoryUrl>https://github.com/engmustafak26/System.Linq.Extend</RepositoryUrl>
-		<PackageProjectUrl>https://github.com/engmustafak26/System.Linq.Extend</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/engmustafak26/SemaphoreSlim.Extend</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/engmustafak26/SemaphoreSlim.Extend</PackageProjectUrl>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
